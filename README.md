@@ -1,4 +1,4 @@
-# Variational Diffusion Models
+# Probabilistic Cascading Diffusion Models
 ![](https://github.com/lihenryhfl/pcdm/blob/main/pcdm.gif)
 
 Official codebase for Likelihood Training of Cascaded Diffusion Models via Hierarchical Volume-preserving Maps (https://openreview.net/forum?id=sojpn00o8z). Code is based on the codebase for Variational Diffusion Models.
